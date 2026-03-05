@@ -1,4 +1,4 @@
-A Flask web application that uses machine learning models to make predictions based on user input, featuring a simple interface with landing, form, and result pages.”# 🧠 Machine Learning Web Application
+# 🧠 Machine Learning Web Application
 This project is a Flask web application that utilizes machine learning models to make predictions based on user input. The application has a simple and intuitive interface, allowing users to submit forms and receive results based on the predictions made by the model. The core features of the project include a landing page, a form page, and a result page, all of which are handled by the `app.py` file. The application relies on a machine learning model loaded from the `multi.pkl` file, which is used to make predictions based on user input.
 
 ## 🚀 Features
